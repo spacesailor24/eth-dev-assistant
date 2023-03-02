@@ -1,0 +1,1 @@
+export const ERR_CLIENT_FAILURE_TO_CONNECT = 300;
